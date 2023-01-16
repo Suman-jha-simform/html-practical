@@ -192,7 +192,7 @@ font-family: sans-serif;
  float: left;
  margin-left: 0.5rem;
  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
- background-image:url('/img/items/offer.png');
+ background-image:url('../img/items/offer.png');
  background-position:0px bottom; 
  background-repeat:no-repeat
 } 
